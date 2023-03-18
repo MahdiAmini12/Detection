@@ -1,6 +1,6 @@
 #Detection
 
-# :AI: Detection
+# :Artificial intelligence: Detection
 
 <div dir="rtl">
 
