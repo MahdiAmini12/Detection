@@ -13,7 +13,7 @@ This is a repository for **image processing projects**
 
 ردیف | عنوان 
  --- | --- 
-1 | [بدیهی](https://b2n.ir/badihi-quera) | دانشگاهی | [Python](https://b2n.ir/badihi2) | 1 |
+1 | [Face-Detection](https://b2n.ir/facedetection) |
 
  
  [:back: بازگشت به فهرست](#mag_right-فهرست-جدول)
