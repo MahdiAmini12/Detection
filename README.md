@@ -9,8 +9,10 @@ This is a repository for **image processing projects**
 
 ## :heavy_check_mark: Projects
 
-ردیف | عنوان | تصویر 
+ردیف | عنوان | تصویر
+ 
  --- | --- 
+ 
  
  
  
