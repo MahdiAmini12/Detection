@@ -12,8 +12,8 @@ This is a repository for **image processing projects**
  
 ردیف | عنوان سوال | دسته بندی | زبان | تعداد روش حل | توضیحات حل سوال
  --- | --- | --- | --- | --- | --- 
-1 | [Face-Detection](https://b2n.ir/badihi-quera) |
-2 | [Face-Detection](https://b2n.ir/facedetection) |  
+1 | [Face-Detection](https://b2n.ir/badihi-quera) | <img align="right" src="https://digiato.com/wp-content/uploads/2019/07/facial-recognition-1.gif" height="25" width="50">
+ 
 
  
  [:back: بازگشت به فهرست](#mag_right-فهرست-جدول)
