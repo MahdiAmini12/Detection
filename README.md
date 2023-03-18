@@ -11,29 +11,10 @@ This is a repository for **image processing projects**
 
 ردیف | عنوان | تصویر
  
+ 
  --- | --- 
- 
- 
- 
- 
- 
- 
- 
- 
-1 | [Face-Detection](https://b2n.ir/facedetection) | 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  
+1 | [Face-Detection](https://b2n.ir/facedetection) |  
 2 | [Volume Control With Hand Detection OpenCV Python](https://b2n.ir/Handdetecction) |
 
  
