@@ -12,7 +12,7 @@ This is a repository for **image processing projects**
  
 ردیف | پروژه | تصویر         
  --- | --- | ---        
-1 | [Face-Detection](https://b2n.ir/badihi-quera) | <img align="right" src="https://digiato.com/wp-content/uploads/2019/07/facial-recognition-1.gif" height="150" width="300">
+1 | [Face-Detection](https://b2n.ir/badihi-quera) | <img align="right" src="https://digiato.com/wp-content/uploads/2019/07/facial-recognition-1.gif" height="300" width="300">
  
 
  
