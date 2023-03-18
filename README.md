@@ -10,8 +10,8 @@ This is a repository for **image processing projects**
 ## :heavy_check_mark: Projects
  
  
-ردیف | عنوان سوال | دسته بندی | زبان | تعداد روش حل | توضیحات حل سوال
- --- | --- | --- | --- | --- | --- 
+ردیف | پروژه | تصویر
+ --- | --- | --- 
 1 | [Face-Detection](https://b2n.ir/badihi-quera) | <img align="right" src="https://digiato.com/wp-content/uploads/2019/07/facial-recognition-1.gif" height="25" width="50">
  
 
