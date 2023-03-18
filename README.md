@@ -20,7 +20,7 @@ This is a repository for **image processing projects**
  
  
  
-1 | [Face-Detection](https://b2n.ir/facedetection) | <img align="up" src="https://digiato.com/wp-content/uploads/2019/07/facial-recognition-1.gif" height="250" width="400"> |
+1 | [Face-Detection](https://b2n.ir/facedetection) | 
  
  
  
